@@ -1,0 +1,34 @@
+div {
+    margin: auto;
+    width: 700px;
+    border: solid black 2px;
+}
+
+header, footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+nav {
+    float: left;
+    width: 150px;
+    height: 300px;
+    border-right: solid black 2px;
+}
+
+article {
+    margin: 50px 20px 20px 180px;
+    text-align: justify;
+}
